@@ -10,7 +10,7 @@ description: >-
 
 ### About Scelta
 
-Since being founded 2021, Scelta has been dedicated to providing top-quality automotive parts. Our commitment to innovation and excellence has made us a trusted partner in the industry.
+Since being founded 2021, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
 
 ### Mission and Vision
 
