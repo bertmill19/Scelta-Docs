@@ -1,7 +1,7 @@
 ---
 description: >-
   Purpose: Provide background information about Scelta, its mission, key
-  statistics, and leadership team.
+  statistics, and the leadership team.
 ---
 
 # Company Information
