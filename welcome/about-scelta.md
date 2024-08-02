@@ -2,13 +2,15 @@
 description: >-
   Background information about Scelta, its mission, key statistics, and the
   leadership team.
+cover: ../.gitbook/assets/BLACK_POWERED BY SCELTA LOGO_TM
+coverY: -49
 ---
 
 # About Scelta
 
 ## About Scelta
 
-Since being founded in 2021 by David Mill, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
+Since being founded in 2023 by David Mill, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
 
 ### Mission and Vision
 
