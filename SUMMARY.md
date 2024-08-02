@@ -1,7 +1,15 @@
 # Table of contents
 
+## Welcome
+
 * [Introduction](README.md)
-* [Products Overview](products-overview.md)
-* [Getting Started](getting-started.md)
-* [Support and Troubleshooting](support-and-troubleshooting.md)
-* [Company Information](company-information.md)
+* [About Scelta](welcome/about-scelta.md)
+* [Why Choose Scelta?](welcome/why-choose-scelta.md)
+
+## Products
+
+* [Products Overview](products/products-overview.md)
+
+## Support
+
+* [Support and Troubleshooting](support/support-and-troubleshooting.md)

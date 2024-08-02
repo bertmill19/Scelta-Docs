@@ -23,8 +23,7 @@ description: >-
 If you need further assistance, please contact our support team:
 
 * Email: support@scelta.com
-* Phone: 1-800-123-4567
-* Visit our [Support Page](https://www.scelta.com/support)
+* Phone:
 
 ### User Guides and Tutorials
 
