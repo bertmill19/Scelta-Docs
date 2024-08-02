@@ -8,7 +8,7 @@ description: >-
 
 ## About Scelta
 
-Since being founded in 2021, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
+Since being founded in 2021 by David Mill, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
 
 ### Mission and Vision
 
