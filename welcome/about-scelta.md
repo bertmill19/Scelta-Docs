@@ -67,3 +67,29 @@ Today, Powered by Scelta helps General Contractors automate the tasks they don�
 Let’s face it—construction processes could be better.\
 So let’s build a better future together.\
 **CALL/TEXT:** 226-347-6758
+
+### Commonly Asked Questions
+
+Question: What is Scelta's purpose?
+
+Answer: EXCEED the demand for an affordable future by eliminating waste in construction processes, financially benefiting the lives of all.
+
+***
+
+Question: How did Scelta start?
+
+Answer: Scelta was born from the founder’s experiences as a construction project coordinator and a mission to help his Nona with home selections, leading to the creation of a platform designed to revolutionize outdated practices.
+
+***
+
+Question: What is Scelta's vision?
+
+Answer: ELIMINATE paper from every construction site in North America, ushering in the first generation of Digital General Contractors.
+
+***
+
+Question: What are the key statistics about Scelta’s success?
+
+Answer: Scelta has over 650 users, 45+ companies, 100% onboarding success, and 0% client turnover, showcasing its effectiveness and customer satisfaction.
+
+\
