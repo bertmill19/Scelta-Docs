@@ -8,6 +8,10 @@ description: >-
 
 ## Support and Troubleshooting
 
+### Ongoing Support and Training
+
+Scelta offers continuous support and training to ensure you and your team can effectively utilize the products and maximize their benefits.
+
 ### Common Issues and Solutions
 
 #### Issue: Unable to log in
@@ -25,10 +29,6 @@ If you need further assistance, please contact our support team:
 * Email: support@scelta.com
 * Phone:
 
-### User Guides and Tutorials
+### Privacy Policy
 
-Explore our detailed user guides and tutorials to make the most out of Scelta products.
-
-* [User Guide for Scelta Portal™](https://www.scelta.com/user-guide-portal)
-* [User Guide for Scelta 360™](https://www.scelta.com/user-guide-360)
-* [User Guide for Scelta RealTime™](https://www.scelta.com/user-guide-realtime)
+Scelta implements robust security measures to ensure your data is protected and only accessible to authorized users. Read our Terms of Service & Privacy Policy.
