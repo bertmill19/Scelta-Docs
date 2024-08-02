@@ -15,12 +15,10 @@ def convert_md_to_txt(source_folder):
             
             with open(txt_file_path, 'w', encoding='utf-8') as txt_file:
                 txt_file.write(content)
-                
-            # Remove the original .md file
-            os.remove(md_file_path)
             
-            print(f"Converted and removed {filename}")
+            print(f"Converted {filename} to {txt_filename}")
 
 if __name__ == "__main__":
     source_folder = '.'  # Current directory
     convert_md_to_txt(source_folder)
+
