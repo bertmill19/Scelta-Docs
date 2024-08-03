@@ -1,16 +1,18 @@
 ---
-description: 'Purpose: Give a detailed overview of Scelta''s key products and their benefits.'
+description: Overview of Scelta's key products and their benefits.
 ---
 
 # Products Overview
 
-
-
-## Scelta Portal™
+## 1. Scelta Portal™
 
 ### Overview
 
 Scelta Portal™ keeps clients informed and engaged with automated project updates.
+
+### Product Type
+
+Scelta Portal is an application.
 
 ### Features
 
@@ -29,11 +31,15 @@ Scelta Portal™ is a construction client management software that eliminates yo
 
 ***
 
-## Scelta 360™
+## 2. Scelta 360™
 
 ### Overview
 
 Scelta 360™ provides immersive virtual reality tours for showcasing projects.
+
+### Product Type
+
+Scelta Portal is an application.
 
 ### Features
 
@@ -72,11 +78,15 @@ Includes:
 
 ***
 
-## Scelta RealTime™
+## 3. Scelta RealTime™
 
 ### Overview
 
 Scelta RealTime™ enhances manufacturing efficiency with real-time data integration.
+
+### Product Type
+
+Scelta Portal is an application.
 
 ### Features
 
