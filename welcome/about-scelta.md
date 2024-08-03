@@ -2,13 +2,15 @@
 description: >-
   Background information about Scelta, its mission, key statistics, and the
   leadership team.
+cover: ../.gitbook/assets/BLACK_POWERED BY SCELTA LOGO_TM
+coverY: -49
 ---
 
 # About Scelta
 
 ## About Scelta
 
-Since being founded in 2021, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
+Since being founded in 2023 by David Mill, Scelta has been dedicated to providing top-quality technology solutions to contractors, construction companies, and manufacturers. Our commitment to innovation and excellence has made us a trusted partner in the industry.
 
 ### Mission and Vision
 
@@ -65,8 +67,11 @@ Following the initial success, Scelta rolled out the platform to 150 condo buyer
 Today, Powered by Scelta helps General Contractors automate the tasks they don’t want to do so they can focus on what really matters. By relieving the burden of admin, planning, and client interaction aspects, we empower general contractors and their teams to concentrate on the impactful, hands-on work that defines their craft.
 
 Let’s face it—construction processes could be better.\
-So let’s build a better future together.\
-**CALL/TEXT:** 226-347-6758
+So let’s build a better future together.
+
+### Contact Information
+
+To get in touch with Scelta,  call or text 226-347-6758, or email dmill@scelta.ca
 
 ### Commonly Asked Questions
 
