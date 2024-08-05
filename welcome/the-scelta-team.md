@@ -22,46 +22,46 @@ layout:
 
 Scelta has a wide variety of talented team members from construction, software, data science, and artistic backgrounds. The combination of our diverse skills allow us to create the products our customers love.
 
-#### DAVID, Chief Executive Officer
+The Scelta Team
 
-I leverage years of tech and construction industry experience to solidify Scelta’s role in advancing project management, business process optimization, and revolutionizing traditional companies
+Scelta boasts a diverse and talented team with backgrounds in construction, software development, data science, and the arts. Our team’s varied skills and experiences enable us to create innovative products that our customers love.
 
-#### AVEREY, Director of Marketing
+**DAVID, Founder & CEO**
 
-I'm the megaphone to the heart of Scelta's story and mission, designing and distributing stories that drive brand awareness, advocacy, and love for Scelta.
+I leverage years of experience in the tech and construction industries to solidify Scelta’s role in advancing project management, business process optimization, and revolutionizing traditional companies.
 
-#### SAAD, Lead Software Engineer
+**AVEREY, Director of Marketing**
 
-####
+I’m the megaphone to the heart of Scelta’s story and mission, designing and distributing stories that drive brand awareness, advocacy, and love for Scelta.
 
-#### JOHN M., AI Strategy Lead
+**SAAD, Lead Software Engineer**
 
-I have 25 years of experience as a lawyer for owner-managers.&#x20;
+I lead our software development efforts, ensuring our products are built to the highest standards and meet the needs of our users.
 
-I strive for technology to not just be adopted, but to be understood, mastered and allowed to serve your business.
+**JOHN M., AI Strategy Lead**
 
-#### JOHN L., Software Engineer
+With 25 years of experience as a lawyer for owner-managers, I strive for technology to not just be adopted, but to be understood, mastered, and allowed to serve your business.
 
+**JOHN L., Software Engineer**
 
+I contribute to the development of Scelta’s software solutions, focusing on creating robust and scalable systems.
+
+**SLY, Software Engineer**
+
+I use my training in multiple programming languages, complex programming theories, and direct experience on construction sites to build software that contractors love. I am deeply exploring Artificial Intelligence and Algorithm Design.
 
 **UMER, Software Engineer**
 
+I specialize in developing user-friendly and efficient software solutions that enhance the functionality of Scelta’s products.
 
+**JOEL, Software Engineer**
 
-#### JARROD, Software Engineer
+I am dedicated to developing innovative software solutions that drive efficiency and productivity for our clients, leveraging my expertise in both front-end and back-end development to enhance Scelta’s offerings.
 
-I bring the Scelta apps to life.
+**JARROD, Software Engineer**
 
-I specialize in full stack development and have developed several websites and applications over the years.
+I bring the Scelta apps to life, specializing in full-stack development and having developed several websites and applications over the years.
 
-#### SLY, Software Engineer
+**RICK, Engineering Consultant**
 
-I use my training in a multitude of programming languages, complex programming theories, and direct experience on construction sites to build software that contractors love and am deeply exploring Artificial Intelligence and Algorithm Design.
-
-#### TAHA, Industrial Engineer & Data Analyst
-
-With a multifaceted career focused on data analysis and process optimization across diverse industries, I spearhead quality control measures, optimize manufacturing processes, and conduct detailed data analysis.
-
-#### RICK, Engineering Consultant
-
-I merge traditional businesses with simple yet powerful technology using my background in engineering. I have a strong work ethic, exceptional problem-solving skills, and am deeply committed to excellence.\
+I merge traditional businesses with simple yet powerful technology using my background in engineering. I have a strong work ethic, exceptional problem-solving skills, and am deeply committed to excellence.
