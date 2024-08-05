@@ -10,9 +10,9 @@
 ## Products
 
 * [Products Overview](products/products-overview.md)
-* [Scelta Portal](products/scelta-portal.md)
+* [Scelta PORTAL](products/scelta-portal.md)
 * [Scelta 360](products/scelta-360.md)
-* [Scelta RealTime](products/scelta-realtime.md)
+* [Scelta REALTIME](products/scelta-realtime.md)
 
 ## Support
 

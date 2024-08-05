@@ -1,5 +1,21 @@
 ---
 description: Introducing the people being Scelta's products.
+cover: ../.gitbook/assets/sceltatech_cover.jpeg
+coverY: -55.12500000000001
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # The Scelta Team
@@ -10,28 +26,35 @@ Scelta has a wide variety of talented team members from construction, software, 
 
 I leverage years of tech and construction industry experience to solidify Scelta’s role in advancing project management, business process optimization, and revolutionizing traditional companies
 
-#### JOHN, Senior Software Developer
-
 #### AVEREY, Director of Marketing
 
-I'm the megaphone to the heart of Scelta's story and mission, designing and distributing stories that drive brand awareness, advocacy, and love for Scelta.\
+I'm the megaphone to the heart of Scelta's story and mission, designing and distributing stories that drive brand awareness, advocacy, and love for Scelta.
 
+#### SAAD, Lead Software Engineer
 
-#### JOHN, AI Strategy Lead
+####
+
+#### JOHN M., AI Strategy Lead
 
 I have 25 years of experience as a lawyer for owner-managers.&#x20;
 
 I strive for technology to not just be adopted, but to be understood, mastered and allowed to serve your business.
 
-#### SAAD, Software Developer
+#### JOHN L., Software Engineer
 
-#### JARROD, Software Developer
+
+
+**UMER, Software Engineer**
+
+
+
+#### JARROD, Software Engineer
 
 I bring the Scelta apps to life.
 
 I specialize in full stack development and have developed several websites and applications over the years.
 
-#### SLY, Software Developer
+#### SLY, Software Engineer
 
 I use my training in a multitude of programming languages, complex programming theories, and direct experience on construction sites to build software that contractors love and am deeply exploring Artificial Intelligence and Algorithm Design.
 

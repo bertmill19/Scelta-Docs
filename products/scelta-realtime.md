@@ -1,4 +1,23 @@
-# Scelta RealTime
+---
+cover: ../.gitbook/assets/1718495709034.jpeg
+coverY: 7
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Scelta REALTIME
 
 ## Scelta RealTime™
 

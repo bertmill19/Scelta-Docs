@@ -1,4 +1,23 @@
-# Scelta Portal
+---
+cover: ../.gitbook/assets/b124dd_ad31350a89fe4b3fa0012707934d809f~mv2.webp
+coverY: -81.088
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Scelta PORTAL
 
 ## Scelta Portal™
 

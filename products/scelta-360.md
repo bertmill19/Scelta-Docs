@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/b124dd_e663451c04ff4d2ab6ecd19e219313cf~mv2.webp
+coverY: -191.136
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Scelta 360
 
 ## Scelta 360™

@@ -1,11 +1,20 @@
+---
+cover: ../.gitbook/assets/1718495709413.jpeg
+coverY: 71
+---
+
 # Why Choose Scelta?
 
-### Scelta Works Boots on the Ground.
+### Scelta Works, Boots on the Ground.
 
-At Scelta, we've worked directly with hundreds of contractors, realtors, builders, and general contractors on their job sites, in their offices, and on the backs of their pickups to build our products.&#x20;
+Scelta combines advanced technology with practical solutions to tackle real-world construction challenges. Our tools are user-friendly, customizable, and backed by exceptional support, making Scelta the preferred choice for industry professionals.
 
-​
+**User-Friendly Interface:** Our tools are designed to be intuitive and easy to use, reducing the learning curve for your team.
 
-Working Boots on the Ground ensures our products stay connected to the realities of the construction industry and the needs of our users.\
-\
-A quote from a user: "From the initial demo to the personalized walk-throughs of their product, they consistently impressed us at every turn."
+**Customizability:** Scelta products can be tailored to fit the specific needs of your business, ensuring you get the most out of our solutions.
+
+**Exceptional Support:** Our dedicated support team is always ready to help you with any issues or questions you may have.
+
+**Proven Success:** Our commitment to 100% successful onboarding and a 0% churn rate demonstrates our dedication to customer satisfaction.
+
+**Boots on the Ground Approach:** We actively engage with our clients to understand their needs and provide solutions that meet their real-world challenges.

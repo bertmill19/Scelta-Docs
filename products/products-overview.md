@@ -1,5 +1,21 @@
 ---
 description: Overview of Scelta's key products and their benefits.
+cover: ../.gitbook/assets/Screenshot 2024-08-02 at 3.50.45 PM.png
+coverY: -174
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Products Overview
