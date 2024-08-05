@@ -6,13 +6,6 @@
 
 Scelta Portal™ keeps clients informed and engaged with automated project updates.
 
-### Features
-
-* Automated project updates
-* Selection comments
-* Schedule changes
-* Client communication tools
-
 ### Benefits
 
 * Keeps clients informed and engaged, reducing their anxiety and constant inquiries.
@@ -21,7 +14,25 @@ Scelta Portal™ keeps clients informed and engaged with automated project updat
 
 Scelta Portal™ is a construction client management software that eliminates your clients' anxiety through a stunning, automated project update feed. This allows you to focus on your craft without the stress of constant client calls or site visits.
 
-### Common Questions
+### Features
+
+#### Automated project updates
+
+We provide automatic updates to managers and any registered users whenever a project change occurs, ensuring everyone is informed based on your workflow.
+
+#### Selection comments
+
+[dmill](https://app.gitbook.com/u/uhXqDjYnvPaiQkoW5d8sFK1od0z2 "mention") please fill these out
+
+#### Schedule changes
+
+[dmill](https://app.gitbook.com/u/uhXqDjYnvPaiQkoW5d8sFK1od0z2 "mention") please fill these out
+
+#### Client communication tools
+
+[dmill](https://app.gitbook.com/u/uhXqDjYnvPaiQkoW5d8sFK1od0z2 "mention") please fill these out
+
+### Commonly Asked Questions
 
 Q: How does Scelta Portal™ help with anxious clients?
 
